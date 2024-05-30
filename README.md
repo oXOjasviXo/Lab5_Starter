@@ -2,7 +2,7 @@
 ## Members:
 - Ojasvi Tewari
 - Aditya Saini
-- 
-[Link to expose](./expose.html)
 
-[Link to explore](./explore.html)
+[Link to expose](https://oxojasvixo.github.io/Lab5_Starter/expose.html)
+
+[Link to explore](https://oxojasvixo.github.io/Lab5_Starter/explore.html)
